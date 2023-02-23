@@ -17,8 +17,8 @@ public class Week1Example {
         System.out.println("Week 1");
         Scanner in = new Scanner(System.in);
         String word = in.next();
-        //tarun      
-        //tarun2
+        //tarun    
+        //tarun2 4555
         //step 2. split char and store in array
         char[] reverse = new char[word.length()];
         for(int i=0;i<word.length();i++)
