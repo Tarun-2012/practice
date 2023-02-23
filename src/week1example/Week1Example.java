@@ -11,6 +11,7 @@ public class Week1Example {
     /**
      * @param args the command line arguments
      */
+    //Hello commit
     public static void main(String[] args) {
         System.out.println("Week 1");
         Scanner in = new Scanner(System.in);
