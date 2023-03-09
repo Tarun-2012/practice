@@ -13,6 +13,7 @@ public class Week1Example {
      */
     //Hello commit
     //hello pull
+    //Mne change kiya
     public static void main(String[] args) {
         System.out.println("Week 1");
         Scanner in = new Scanner(System.in);
